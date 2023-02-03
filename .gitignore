@@ -1,0 +1,6 @@
+media/
+.idea/
+venv/
+db.sqllite3
+.env
+__pycache__/
